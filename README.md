@@ -1,4 +1,6 @@
 ### Olá, Eu sou a Luiza Ramos. 😄
+Tenho 26 anos, e atualmente moro em São josé dos campos, uma cidade próxima a São Paulo. Eu sou formada em engenharia industrial mecânica e estou em transição de carreira para a área de tecnologia, pois é uma área que eu sempre me identifiquei muito. Sou uma pessoa muito objetiva e gosto de novos desafios, adoro a possibilidade de criar novas funcionalidades e otimizar o nosso dia-a-dia com o uso da tecnologia.
+Devido a isso atualmente estou cursando Análise e desenvolvimento de sistemas na FIAP e também o bootcamp de pessoa desenvolvedora Java na Generation. 
 
 
 <div align="center">
