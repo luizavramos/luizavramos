@@ -1,6 +1,7 @@
 ### Olá, Eu sou a Luiza Ramos. 😄
-Tenho 26 anos, e atualmente moro em São josé dos campos, uma cidade próxima a São Paulo. Sou formada em engenharia industrial mecânica e estou em transição de carreira para a área de tecnologia, pois é uma área que eu sempre me identifiquei muito. Sou uma pessoa muito objetiva e gosto de novos desafios, adoro a possibilidade de criar novas funcionalidades e otimizar o nosso dia-a-dia com o uso da tecnologia.
-Devido a isso atualmente estou cursando Análise e desenvolvimento de sistemas na FIAP e também o bootcamp de pessoa desenvolvedora Java na Generation. 
+Desenvolvedora de Software com formação em Análise e Desenvolvimento de Sistemas pela FIAP e Engenharia Industrial Mecânica, além de um bootcamp em Desenvolvimento Java pela Generation. Atualmente, atuo como Desenvolvedora Júnior na Sonda, com experiência de 1 ano e 10 meses em projetos que utilizam Java, o framework Spring e a criação de APIs REST, sempre trabalhando em um ambiente ágil e seguindo a metodologia Scrum.
+
+Minhas experiências anteriores em vendas e atendimento ao cliente permitiram aperfeiçoar minhas habilidades de comunicação, resolução de problemas e trabalho em equipe. Sou uma profissional dedicada e proativa, com forte foco em aprendizado contínuo e sempre em busca de novos desafios.
 
 
 <div align="center">
