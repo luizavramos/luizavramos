@@ -1,5 +1,5 @@
 ### Olá, Eu sou a Luiza Ramos. 😄
-Desenvolvedora de Software com formação em Análise e Desenvolvimento de Sistemas pela FIAP e Engenharia Industrial Mecânica, além de um bootcamp em Desenvolvimento Java pela Generation. Atualmente, atuo como Desenvolvedora Júnior na Sonda, com experiência de 1 ano e 10 meses em projetos que utilizam Java, o framework Spring e a criação de APIs REST, sempre trabalhando em um ambiente ágil e seguindo a metodologia Scrum.
+Desenvolvedora de Software com formação em Análise e Desenvolvimento de Sistemas pela FIAP e Engenharia Industrial Mecânica, atualmente estou estou cursando uma pós-graduação em Arquitetura e Desenvolvimento Java pela FIAP. Trabalho como Desenvolvedora Júnior na Sonda, com experiência de 2 anos em projetos que utilizam Java, o framework Spring e a criação de APIs REST, sempre trabalhando em um ambiente ágil e seguindo a metodologia Scrum.
 
 Minhas experiências anteriores em vendas e atendimento ao cliente permitiram aperfeiçoar minhas habilidades de comunicação, resolução de problemas e trabalho em equipe. Sou uma profissional dedicada e proativa, com forte foco em aprendizado contínuo e sempre em busca de novos desafios.
 
