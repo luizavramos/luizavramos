@@ -8,11 +8,14 @@ Na prática, aplico tecnologias como Java 17, Spring Boot, Kafka, PostgreSQL e D
 Minhas experiências anteriores em vendas e atendimento ao cliente permitiram aperfeiçoar minhas habilidades de comunicação, resolução de problemas e trabalho em equipe. Sou uma profissional dedicada e proativa, com forte foco em aprendizado contínuo e sempre em busca de novos desafios.
 
 🏆 Conquistas & Reconhecimentos
+
 🥇 Hackathon AWS + Insper + Fundação Itaú + Fundação Lemman - 1º LUGAR
+
 Projeto: AdaptAI - Plataforma Educacional Inclusiva
+
 Uma plataforma revolucionária de ensino de matemática que conquistou o primeiro lugar no prestigioso hackathon:
 🎯 Objetivo: Reduzir desigualdades no aprendizado matemático, focado em estudantes de escolas públicas do Ensino Fundamental 2
-</div>
+
 
 
 
