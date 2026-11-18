@@ -1,7 +1,7 @@
 ### Olá, Eu sou a Luiza Ramos. 😄
 Sou Desenvolvedora Java há 4 anos, apaixonada por construir soluções robustas e escaláveis. Com experiência sólida em cloud computing, PostgreSQL e microsserviços, busco sempre aplicar as melhores práticas de Clean Code em todos os projetos que desenvolvo.
 
-Tenho formação em Análise e Desenvolvimento de Sistemas pela FIAP e estou cursando pós-graduação em Arquitetura e Desenvolvimento Java, onde aprofundo meus conhecimentos em padrões de projeto, código limpo e boas práticas de engenharia de software.
+Tenho formação em Análise e Desenvolvimento de Sistemas pela FIAP e pós-graduação em Arquitetura e Desenvolvimento Java, onde aprofundo meus conhecimentos em padrões de projeto, código limpo e boas práticas de engenharia de software.
 
 Na prática, aplico tecnologias como Java 17, Spring Boot, Kafka, PostgreSQL e Docker, sempre alinhando performance com legibilidade e manutenibilidade.
 
